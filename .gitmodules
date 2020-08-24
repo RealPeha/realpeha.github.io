@@ -1,3 +1,6 @@
 [submodule "rays"]
 	path = rays
 	url = https://github.com/RealPeha/rays
+[submodule "neonabyss-items"]
+	path = neonabyss-items
+	url = https://github.com/RealPeha/neonabyss-items
