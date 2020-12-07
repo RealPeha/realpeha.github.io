@@ -7,3 +7,6 @@
 [submodule "spirograph"]
 	path = spirograph
 	url = https://github.com/RealPeha/spirograph.git
+[submodule "flood-it"]
+	path = flood-it
+	url = https://github.com/RealPeha/flood-it.git
