@@ -10,3 +10,6 @@
 [submodule "flood-it"]
 	path = flood-it
 	url = https://github.com/RealPeha/flood-it.git
+[submodule "RealFont"]
+	path = RealFont
+	url = https://github.com/RealPeha/RealFont.git
