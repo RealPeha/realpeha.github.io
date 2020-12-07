@@ -4,3 +4,6 @@
 [submodule "neonabyss-items"]
 	path = neonabyss-items
 	url = https://github.com/RealPeha/neonabyss-items
+[submodule "spirograph"]
+	path = spirograph
+	url = https://github.com/RealPeha/spirograph.git
