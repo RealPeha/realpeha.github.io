@@ -13,3 +13,9 @@
 [submodule "RealFont"]
 	path = RealFont
 	url = https://github.com/RealPeha/RealFont.git
+[submodule "kod"]
+	path = kod
+	url = https://github.com/RealPeha/kod.git
+[submodule "sketches"]
+	path = sketches
+	url = https://github.com/RealPeha/sketches.git
